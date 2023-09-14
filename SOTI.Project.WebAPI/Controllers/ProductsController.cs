@@ -52,6 +52,7 @@ namespace SOTI.Project.WebAPI.Controllers
             return BadRequest();
         }
 
+
         [HttpPut]
         public IHttpActionResult Update([FromUri] int id, [FromBody] Product pro)
         {
@@ -75,9 +76,9 @@ namespace SOTI.Project.WebAPI.Controllers
             return BadRequest();
         }
 
-        //public IHttpActionResult GetData()
-        //{
-        //    return Json(new { Message = "Welcome" });
-        //}
+        public IHttpActionResult GetData()
+        {
+            return Json(new { Message = "Welcome" });
+        }
     }
 }

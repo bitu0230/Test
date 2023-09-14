@@ -131,11 +131,11 @@ namespace SOTI.Project.DAL
                         //adapter.Fill(ds, "Products");
                         //return ds;
                         // use linq
-                       // return 
+                        // return 
 
-                        // can't return data row so dont use this way 
-                        //adapter.FillSchema(ds, SchemaType.Source);
-                        //return ds;
+                       // can't return data row so dont use this way 
+                        adapter.FillSchema(ds, SchemaType.Source);
+                        
                     }
                 }
             }
