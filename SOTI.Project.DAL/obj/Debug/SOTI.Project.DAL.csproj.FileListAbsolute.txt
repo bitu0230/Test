@@ -1,0 +1,7 @@
+C:\vs\Backend\Soti.Project\SOTI.Project.DAL\bin\Debug\SOTI.Project.DAL.dll.config
+C:\vs\Backend\Soti.Project\SOTI.Project.DAL\bin\Debug\SOTI.Project.DAL.dll
+C:\vs\Backend\Soti.Project\SOTI.Project.DAL\bin\Debug\SOTI.Project.DAL.pdb
+C:\vs\Backend\Soti.Project\SOTI.Project.DAL\obj\Debug\SOTI.Project.DAL.csproj.AssemblyReference.cache
+C:\vs\Backend\Soti.Project\SOTI.Project.DAL\obj\Debug\SOTI.Project.DAL.csproj.CoreCompileInputs.cache
+C:\vs\Backend\Soti.Project\SOTI.Project.DAL\obj\Debug\SOTI.Project.DAL.dll
+C:\vs\Backend\Soti.Project\SOTI.Project.DAL\obj\Debug\SOTI.Project.DAL.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOTI.Project.DAL", "SOTI.Project.DAL\SOTI.Project.DAL.csproj", "{00BDEDB3-069F-4C85-AB83-F2D7C2E5E51D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOTI.Project.WebAPI", "SOTI.Project.WebAPI\SOTI.Project.WebAPI.csproj", "{932A4B08-94B6-4B6F-92AB-7D088C8D27C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00BDEDB3-069F-4C85-AB83-F2D7C2E5E51D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00BDEDB3-069F-4C85-AB83-F2D7C2E5E51D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00BDEDB3-069F-4C85-AB83-F2D7C2E5E51D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00BDEDB3-069F-4C85-AB83-F2D7C2E5E51D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{932A4B08-94B6-4B6F-92AB-7D088C8D27C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{932A4B08-94B6-4B6F-92AB-7D088C8D27C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{932A4B08-94B6-4B6F-92AB-7D088C8D27C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{932A4B08-94B6-4B6F-92AB-7D088C8D27C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE3438F5-12E4-4135-9E27-34FBD7458795}
+	EndGlobalSection
+EndGlobal
